@@ -23,3 +23,35 @@ Experimentation: Branching enables developers to experiment with new features or
 
 
 
+Devops life cycles and stages:
+1. Plan code
+2. Build
+3. Test
+4. Release
+5. Deploy
+6. Operate
+&. Monitor
+
+Stages:
+1. Continues Development : tools are Git, SVN, Mercurial, CVS.
+2. Integration : jenkins, teamcity, Trevis.
+3. Testing : Jenkins, Selenium, TestNG, Junit
+4. Development : Configuration management, Chef, puppet, Ansible - Containerization - Docker - Vagrant.
+5. Monitor : Splunk, ELK stack, Nagios, New Relic.
+
+Roles and responcibilities:
+collaboration 
+automation
+deployment
+monitoring
+security
+continuos improvement
+
+skils of Devops eng..:
+software development
+operatuion
+automation
+cloud computing 
+communiocation
+
+
