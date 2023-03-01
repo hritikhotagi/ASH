@@ -19,3 +19,7 @@ Isolation: Branching allows developers to work on new features or bug fixes with
 Collaboration: Branching enables multiple developers to work on the same codebase without interfering with each other's work.
 
 Experimentation: Branching enables developers to experiment with new features or techniques without affecting the main codebase.
+
+
+
+
