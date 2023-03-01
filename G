@@ -1,0 +1,23 @@
+Version Control:
+It ios syustem that track changes to software code or any other doc .
+
+benefits:
+collaboratiopn
+history
+revert
+backup
+branching and merging
+
+git: is a popular version control system that was developed torvales for linux kernel development.
+
+github: is a webbased hosting service that provide git repo hostingas additional feature such as issue tracking wikis and project management tools.
+
+version control type:
+Centralized VC
+Distributed VC.
+
+3 ways create repo in local machine :
+clone
+fork and clone
+remote add and fetch.
+
